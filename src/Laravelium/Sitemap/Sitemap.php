@@ -7,7 +7,7 @@ namespace Laravelium\Sitemap;
  *
  * @author Roumen Damianoff <roumen@damianoff.com>
  *
- * @version 6.0.1
+ * @version 7.0
  *
  * @link https://gitlab.com/Laravelium
  *
